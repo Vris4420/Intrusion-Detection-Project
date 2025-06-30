@@ -7,7 +7,7 @@ import numpy as np
 from sklearn.cluster import KMeans
 
 # Load radar CSV file
-input_csv = r"C:\Users\Admin\Desktop\Intrusion-detection-project\Intrusion-Detection-Project\datastes\RadarData_raw.csv"
+input_csv = r"C:\Users\Admin\Desktop\Intrusion-detection-project\Intrusion-Detection-Project\datastes\RadarData.csv"
 output_csv = r"C:\Users\Admin\Desktop\Intrusion-detection-project\Intrusion-Detection-Project\datastes\RadarData_processed.csv"
 
 #ReadCSV
