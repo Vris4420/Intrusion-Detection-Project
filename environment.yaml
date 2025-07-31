@@ -1,0 +1,14 @@
+name: intrusion-detection-env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pandas
+  - numpy
+  - matplotlib
+  - scikit-learn
+  - imbalanced-learn
+  - joblib
+  - pytorch
+  - requests
