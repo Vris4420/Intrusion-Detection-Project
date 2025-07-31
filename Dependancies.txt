@@ -1,7 +1,8 @@
-numpy
 pandas
-sklearn.cluster
-Kmeans
-sklearn.preprocessing
-imblearn.over_sampling
-sklearn.model_selection
+numpy
+matplotlib
+scikit-learn
+imbalanced-learn
+joblib
+torch
+requests
